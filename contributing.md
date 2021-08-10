@@ -1,18 +1,11 @@
-# Contribution Guidelines
+# Contribuire
 
-Please note that this project is released with a [Contributor Code of Conduct](code_of_conduct.md). By participating in this project you agree to abide by its terms.
+Per favore, notare che questo progetto nasce come incubatore di letture consigliate ed e' rilasciato con un [codice di condotta](code_of_conduct.md). Partecipando a questo progetto automaticamente accetti i suoi termini
 
-## PRs
+## Aggiungere una nuova lettura
 
-ALWAYS create a new branch with your proposed changes. Thank you!
+Per aggiungere una nuova lettura, apri una [Issue](https://github.com/ildiffidente/bibliografia-tempi-moderni/issues/new), in cui motivare brevemente la tua proposta. Questo generera' automaticamente un ambiente di discussione relativo alla proposta stessa. La proposta verra' seguita da una [Pull Request](https://github.com/ildiffidente/bibliografia-tempi-moderni/compare) che mostrera' chiaramente come la proposta verra' integrata nella lista.
 
-## Adding an new Item
+## Discussioni
 
-- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/TODO_YOUR_REPO_NAME_HERE/issues/new) to start as discussion about any new sections.
-- Add a new item to the bottom of the list in a section.
-- If a duplicate item exists, discuss why the new item should replace it.
-- Check your spelling & grammar.
-- The item must follow this format:
-  ```
-  - [item name](https link) - Description beginning with capital, ending in period.
-  ```
+Puoi utilizzare le discussioni per approfondire, commentare o discutere liberamente.
