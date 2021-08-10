@@ -27,27 +27,37 @@ Grandi classici, blog posts, saggi, testi brevi e letture varie. Una raccolta cu
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Appena aggiunti 📣](#appena-aggiunti)
+- [Gli Essenziali](#gli-essenziali)
+- [Politica](#politica)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+---
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+## Appena aggiunti 📣
 
-## Section 1
+- 📜 **[In Front of Your Nose](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/in-front-of-your-nose/) (George Orwell, 1946)**: Sulla capacità degli esseri umani di essere convinti di idee mutualmente esclusive, e le sue conseguenze in politica
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
-<!-- END CONTENT -->
+
+## Gli Essenziali
+
+- 📚 **[La Fabbrica del Falso](https://www.ibs.it/fabbrica-del-falso-strategie-della-libro-vladimiro-giacche/e/9788865480151) (Vladimiro Giacchè, 2011)**: Strategie della menzogna nella politica contemporanea
+
+---
+
+## Politica
+
+- 📜 **[In Front of Your Nose](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/in-front-of-your-nose/) (George Orwell, 1946)**: Sulla capacità degli esseri umani di essere convinti di idee mutualmente esclusive, e le sue conseguenze in politica
+
+---
 
 ## Contribuire
 
 [Ogni contributo e' bevenuto! Dai un occhiata alle linee guida](contributing.md)!
 
-Puoi anche discutere un testo o una proposta aprendo una issue o nella sezione Discussioni.
+Puoi anche discutere un testo o una proposta aprendo una issue o nella [sezione Discussioni](https://github.com/ildiffidente/bibliografia-tempi-moderni/discussions).
 
 <!--
 ## Follow
