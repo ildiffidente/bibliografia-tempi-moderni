@@ -19,7 +19,7 @@
 
 Grandi classici, blog posts, saggi, testi brevi e letture varie. Una raccolta curata di testi necessari a capire ed interpretare i tempi moderni.
 
-**Legenda**: 📝 blog posts · 📚 libri · 📜 saggi brevi · 📰 articoli
+**Legenda**: 📝 blog posts · 📚 libri · 📜 saggi brevi · 📰 articoli · 📒 papers 
 
 </div>
 
@@ -47,6 +47,8 @@ Grandi classici, blog posts, saggi, testi brevi e letture varie. Una raccolta cu
 ## Politica
 
 - 📜 **[In Front of Your Nose](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/in-front-of-your-nose/) (George Orwell, 1946)**: Sulla capacità degli esseri umani di essere convinti di idee mutualmente esclusive, e le sue conseguenze in politica
+
+- 📒 **[The Malthus Effect: population and the liberal government of life](https://www.tandfonline.com/doi/full/10.1080/03085147.2014.983832?scroll=top&needAccess=true) (Mitchell Dean, 2015)**: Articolo che identifica il cosiddetto Effetto Malthus, descrivendone l'influenza in ambiti quali welfare, politiche migratorie, sostenibilita', salute pubblica ed ambientalismo.
 
 ---
 
