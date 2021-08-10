@@ -33,8 +33,6 @@ Grandi classici, blog posts, saggi, testi brevi e letture varie. Una raccolta cu
 
 <!-- CONTENT -->
 
----
-
 ## Appena aggiunti 📣
 
 - 📜 **[In Front of Your Nose](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/in-front-of-your-nose/) (George Orwell, 1946)**: Sulla capacità degli esseri umani di essere convinti di idee mutualmente esclusive, e le sue conseguenze in politica
@@ -45,7 +43,6 @@ Grandi classici, blog posts, saggi, testi brevi e letture varie. Una raccolta cu
 
 - 📚 **[La Fabbrica del Falso](https://www.ibs.it/fabbrica-del-falso-strategie-della-libro-vladimiro-giacche/e/9788865480151) (Vladimiro Giacchè, 2011)**: Strategie della menzogna nella politica contemporanea
 
----
 
 ## Politica
 
