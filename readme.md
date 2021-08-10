@@ -43,6 +43,7 @@ Grandi classici, blog posts, saggi, testi brevi e letture varie. Una raccolta cu
 
 - 📚 **[La Fabbrica del Falso](https://www.ibs.it/fabbrica-del-falso-strategie-della-libro-vladimiro-giacche/e/9788865480151) (Vladimiro Giacchè, 2011)**: Strategie della menzogna nella politica contemporanea
 
+- 📝 **[Orizzonte48](https://orizzonte48.blogspot.com/) (Luciano Barra Caracciolo et al., 2012-oggi)**: Le Istituzioni riflettono la società o esse "conformano" la società e ne inducono la struttura? In democrazia, la risposta dovrebbe essere la prima. Ma c’è sempre l'ombra della seconda...il "potere" tende a perpetuarsi, forzando le regole che, nello Stato "democratico di diritto" ne disciplinano la legittimazione. Ultimamente, poi, la seconda si profila piuttosto...ingombrante, nella sintesi "lo vuole l'Europa". Ma non solo. Per capire il fenomeno, useremo la analisi economica del diritto.
 
 ## Politica
 
